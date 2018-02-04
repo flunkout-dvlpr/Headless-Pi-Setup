@@ -1,2 +1,2 @@
 # Headless-Pi-Setup
-Raspberry Pi 3 headless setup configuration files 
+Raspberry Pi 3 headless setup files for Raspbian Stretch OS
